@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_744869_product_m_product_management">state=3^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Close Complete</label>
+        <name>Close Complete</name>
+        <order>40</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 05:02:48</sys_created_on>
+        <sys_id>fc8b68602f7201109051e83df699b6b4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Close Complete</sys_name>
+        <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+        <sys_update_name>sys_process_flow_fc8b68602f7201109051e83df699b6b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 05:03:34</sys_updated_on>
+        <table>x_744869_product_m_product_management</table>
+    </sys_process_flow>
+</record_update>
