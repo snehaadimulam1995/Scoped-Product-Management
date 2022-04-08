@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Product Management " max_length="40" name="x_744869_product_m_product_management" type="collection">
+        <element choice="1" label="Resolution State" max_length="50" name="resolution_state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Solved" sequence="100" value="solved"/>
+                <element inactive_on_update="false" label="Unsolved" sequence="200" value="unsolved"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Resolved Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Resolved by" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution comments" max_length="255" name="u_string_full_utf8_2" type="string_full_utf8"/>
+    </element>
+</database>
