@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_744869_product_m_product_management" label="Issue Management" max_length="40" name="x_744869_product_m_issue_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Objectives Reason" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" label="Cost Saving" max_length="20" name="u_currency_4" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Due Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Call Date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Customer" max_length="32" name="u_reference_2" reference="cmdb_ci_appl_dot_net" type="reference"/>
+    </element>
+</database>

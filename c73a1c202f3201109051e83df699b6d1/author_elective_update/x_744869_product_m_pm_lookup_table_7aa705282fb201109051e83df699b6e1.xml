@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_744869_product_m_pm_lookup_table">
+    <x_744869_product_m_pm_lookup_table action="DELETE">
+        <active>true</active>
+        <impact>1</impact>
+        <order>100</order>
+        <priority>1</priority>
+        <sys_class_name>x_744869_product_m_pm_lookup_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 07:05:58</sys_created_on>
+        <sys_id>7aa705282fb201109051e83df699b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+        <sys_update_name>x_744869_product_m_pm_lookup_table_7aa705282fb201109051e83df699b6e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 07:05:58</sys_updated_on>
+        <urgency>1</urgency>
+    </x_744869_product_m_pm_lookup_table>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Product Management">c73a1c202f3201109051e83df699b6d1</application>
+        <file_path/>
+        <instance_id>e51ca9269b84dbc07ac36b8af359ff10</instance_id>
+        <instance_name>dev49195</instance_name>
+        <name>x_744869_product_m_pm_lookup_table_7aa705282fb201109051e83df699b6e1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_744869_product_m_pm_lookup_table"><x_744869_product_m_pm_lookup_table action="INSERT_OR_UPDATE"><active>true</active><impact>1</impact><order>100</order><priority>1</priority><sys_class_name>x_744869_product_m_pm_lookup_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-08 07:05:58</sys_created_on><sys_id>7aa705282fb201109051e83df699b6e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package><sys_policy/><sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope><sys_update_name>x_744869_product_m_pm_lookup_table_7aa705282fb201109051e83df699b6e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-08 07:05:58</sys_updated_on><urgency>1</urgency></x_744869_product_m_pm_lookup_table></record_update>]]></payload>
+        <payload_hash>-363886072</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>1fd9382c2f7201109051e83df699b6cc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 07:05:58</sys_created_on>
+        <sys_id>81b781682fb201109051e83df699b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18007fe76c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 07:05:58</sys_updated_on>
+        <type>PM lookup table</type>
+        <update_guid>c9b7816841b2011061f5ffc909f6083b</update_guid>
+        <update_guid_history>c9b7816841b2011061f5ffc909f6083b:-363886072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b6b889a82fb201109051e83df699b660</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 07:10:29</sys_created_on>
+        <sys_db_object display_value="" name="x_744869_product_m_pm_lookup_table">x_744869_product_m_pm_lookup_table</sys_db_object>
+        <sys_id>5a8320f0f8304e6c9b4f59bc37496e90</sys_id>
+        <sys_metadata>7aa705282fb201109051e83df699b6e1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+        <sys_scope_delete display_value="">0f3104aa268a4d6292a9b9c4c7b20031</sys_scope_delete>
+        <sys_update_name>x_744869_product_m_pm_lookup_table_7aa705282fb201109051e83df699b6e1</sys_update_name>
+        <sys_update_version display_value="x_744869_product_m_pm_lookup_table_7aa705282fb201109051e83df699b6e1">81b781682fb201109051e83df699b63c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 07:10:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

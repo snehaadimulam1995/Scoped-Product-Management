@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Properities" section_id="e265ad602f3601109051e83df699b6bf" sys_domain="global" table="x_744869_product_m_formula_management_services" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>12d5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_5</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>92d5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>16d5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>96d5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>1ad5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_4</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>9ad5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>1ed5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>9ed5e5a02f3601109051e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>12d5e5a02f3601109051e83df699b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:17:41</sys_created_on>
+            <sys_id>92d5e5a02f3601109051e83df699b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Properities</caption>
+            <header>false</header>
+            <name>x_744869_product_m_formula_management_services</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:15:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e265ad602f3601109051e83df699b6bf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_744869_product_m_formula_management_services</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+            <sys_update_name>sys_ui_section_e265ad602f3601109051e83df699b6bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:17:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

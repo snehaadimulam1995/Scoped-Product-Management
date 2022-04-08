@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="PM lookup table" max_length="40" name="x_744869_product_m_pm_lookup_table" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="impact" choice_table="task" label="Impact" max_length="40" name="impact" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="priority" choice_table="task" label="Priority" max_length="60" name="priority" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="urgency" choice_table="task" label="Urgency" max_length="50" name="urgency" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

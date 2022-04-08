@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_744869_product_m_product_management" label="Specific Management" max_length="40" name="x_744869_product_m_specific_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Plate Code" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="01" sequence="0" value="01"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="02" sequence="1" value="02"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="03" sequence="2" value="03"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason Code" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="01" sequence="0" value="01"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="02" sequence="1" value="02"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="03" sequence="2" value="03"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Approval Group" max_length="32" name="u_reference_3" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Notification Group" max_length="32" name="u_reference_4" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Impact Scope" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Segment" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_744869_product_m_pm_lookup_table">
+    <x_744869_product_m_pm_lookup_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <impact>2</impact>
+        <order>400</order>
+        <priority>2</priority>
+        <sys_class_name>x_744869_product_m_pm_lookup_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 07:18:11</sys_created_on>
+        <sys_id>b37ac52c2fb201109051e83df699b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>400</sys_name>
+        <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+        <sys_update_name>x_744869_product_m_pm_lookup_table_b37ac52c2fb201109051e83df699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 07:18:11</sys_updated_on>
+        <urgency>1</urgency>
+    </x_744869_product_m_pm_lookup_table>
+</record_update>

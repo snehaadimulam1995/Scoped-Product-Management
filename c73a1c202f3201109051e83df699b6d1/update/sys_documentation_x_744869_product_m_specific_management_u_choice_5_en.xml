@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_5" label="Plate Code" language="en" table="x_744869_product_m_specific_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_5</element>
+            <help/>
+            <hint/>
+            <label>Plate Code</label>
+            <language>en</language>
+            <name>x_744869_product_m_specific_management</name>
+            <plural>Plate Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:39:34</sys_created_on>
+            <sys_id>36dae5a42f3601109051e83df699b6c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Plate Code</sys_name>
+            <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+            <sys_update_name>sys_documentation_x_744869_product_m_specific_management_u_choice_5_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:39:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

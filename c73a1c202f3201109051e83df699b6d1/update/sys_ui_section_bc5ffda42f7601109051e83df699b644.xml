@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="bc5ffda42f7601109051e83df699b644" sys_domain="global" table="x_744869_product_m_specific_management" version="3" view="Anlayst">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_state</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 11:09:03</sys_created_on>
+            <sys_id>ad5ffda42f7601109051e83df699b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_744869_product_m_specific_management" sys_domain="global" view="705fbda42f7601109051e83df699b6b5">bc5ffda42f7601109051e83df699b644</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 11:09:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 11:09:03</sys_created_on>
+            <sys_id>315ffda42f7601109051e83df699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_744869_product_m_specific_management" sys_domain="global" view="705fbda42f7601109051e83df699b6b5">bc5ffda42f7601109051e83df699b644</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 11:09:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 11:09:03</sys_created_on>
+            <sys_id>b15ffda42f7601109051e83df699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_744869_product_m_specific_management" sys_domain="global" view="705fbda42f7601109051e83df699b6b5">bc5ffda42f7601109051e83df699b644</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 11:09:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_744869_product_m_specific_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 11:08:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc5ffda42f7601109051e83df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744869_product_m_specific_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+            <sys_update_name>sys_ui_section_bc5ffda42f7601109051e83df699b644</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 11:08:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Anlayst" name="Anlayst">705fbda42f7601109051e83df699b6b5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

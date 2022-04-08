@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="914421602f3601109051e83df699b63d" sys_domain="global" table="x_744869_product_m_formula_management_services" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:10:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>914421602f3601109051e83df699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_744869_product_m_formula_management_services" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">914421602f3601109051e83df699b63d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">c242a1ac2ff201109051e83df699b612</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:10:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:15:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a665ed602f3601109051e83df699b657</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_744869_product_m_formula_management_services" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">914421602f3601109051e83df699b63d</sys_ui_form>
+            <sys_ui_section caption="Properities" display_value="Properities" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">e265ad602f3601109051e83df699b6bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:10:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d4421602f3601109051e83df699b640</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_744869_product_m_formula_management_services" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">914421602f3601109051e83df699b63d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_744869_product_m_formula_management_services" sys_domain="global" view="Default view">514421602f3601109051e83df699b63c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_744869_product_m_formula_management_services</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-08 09:10:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>914421602f3601109051e83df699b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744869_product_m_formula_management_services</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Product Management" source="x_744869_product_m">c73a1c202f3201109051e83df699b6d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Management">c73a1c202f3201109051e83df699b6d1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_914421602f3601109051e83df699b63d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-08 09:10:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
